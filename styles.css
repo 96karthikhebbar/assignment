@@ -1,0 +1,78 @@
+.bg-cover{
+    width:100%;
+    height:225px;
+}
+
+.dp{
+    width:155px;
+    height:160px;
+    position: relative;
+    bottom:100px;
+    left:30px;
+    border: 5px solid  white;
+}
+
+.p-style{
+    float: right;
+    color: blue;
+    margin-right: 25px;
+}
+
+.details{
+    position:relative;
+    bottom:80px;
+    left:50px;
+}
+.div-allign{
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+}
+.grid2-allign{
+    position:relative;
+    bottom:80px;
+    left:70px ;
+}
+.icon-allign{
+    color: grey; 
+    display: flex;
+    justify-content:center;
+}
+.itext-allign{
+    margin-left: 5px;
+}
+.hr1{
+    color: black;
+} 
+.hr2{
+    width:800px;
+    position:relative;
+    left:20px;
+    bottom:75px;
+}
+.text-container{
+    position:relative;
+    left:20px;
+    bottom:75px;
+    width:800px;
+}
+.text-allign{
+    position:relative; 
+    width: 800px;
+    right: 15px;
+}
+.hr3{
+    position:relative; 
+    width: 800px; 
+    right:15px;
+}
+.div2{
+    position:relative; 
+    bottom:15px;
+}
+.hr4{
+    position:relative;
+     bottom:25px;
+     width: 800px; 
+     right: 15px;
+}
